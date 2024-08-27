@@ -28,3 +28,10 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)]()
+
+## Mis Repositorios:
+| Repositorio | Descripción |
+|-------------|-------------|
+| [![Repo 1](https://img.shields.io/badge/Repo1-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Proyecto-Ambiente-Web2) | Descripción del repositorio 1 |
+| [![Repo 2](https://img.shields.io/badge/Repo2-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repo2) | Descripción del repositorio 2 |
+| [![Repo 3](https://img.shields.io/badge/Repo3-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repo3) | Descripción del repositorio 3 |
