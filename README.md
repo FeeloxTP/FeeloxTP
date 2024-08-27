@@ -1,13 +1,13 @@
-# Hola 👋, soy Felipe Trejos Perez
-I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
-- 👯 I'm looking to collaborate with adaptability to change.
-- 💼 All my projects are available on GitHub
-- 📫 How to reach me: luisfelipetrejos28@gmail.com
+# Hola 👋, soy Felipe Trejos Pérez
+Soy un apasionado Desarrollador Junior de Back-End y Front-End de Costa Rica.
+- 👯 Estoy buscando colaborar con adaptabilidad al cambio.
+- 💼 Todos mis proyectos están disponibles en GitHub.
+- 📫 Cómo contactarme: luisfelipetrejos28@gmail.com
   
 ## Conéctate conmigo:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felitrejos2003/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Felipe%20Trejos%20Perez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Felipe%20Trejos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-trejos-5603a5280/)
 
 
 
@@ -35,7 +35,8 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 ## Mis Repositorios:
 | Repositorio | Descripción |
 |-------------|-------------|
-| [![Proyecto Ambiente Web 2](https://img.shields.io/badge/Repo1-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Proyecto-Ambiente-Web2) | Proyecto Realizado en C#-JavaScript-HTML y CSS |
-| [![Proyecto Ambiente Web 1](https://img.shields.io/badge/Repo2-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Proyecto-ambiente-web/Greencycle) | Proyecto que administra un centro de acopio, realizado en React y PHP |
-| [![Tienda de Aplicaciones Basica](https://img.shields.io/badge/Repo3-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Cuatri-5/tree/main/Proyecto%20web) | Tienda de VideoJuegos Basica, realizada con HTML,CSS y JavaScript |
-| [![Pagina realizada a un restaurante](https://img.shields.io/badge/Repo4-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Soda-Tio-Mano) | La pagina es un menú responsive que se abre desde un QR, realizada con HTML,CSS y JavaScript |
+| [![Proyecto Ambiente Web 2](https://img.shields.io/badge/Repo1-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Proyecto-Ambiente-Web2) | Proyecto desarrollado con C#, JavaScript, HTML y CSS. |
+| [![Proyecto Ambiente Web 1](https://img.shields.io/badge/Repo2-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Proyecto-ambiente-web/Greencycle) | Proyecto para administrar un centro de acopio, desarrollado con React y PHP. |
+| [![Tienda de Aplicaciones Básica](https://img.shields.io/badge/Repo3-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Cuatri-5/tree/main/Proyecto%20web) | Tienda de videojuegos básica, desarrollada con HTML, CSS y JavaScript. |
+| [![Página realizada para un restaurante](https://img.shields.io/badge/Repo4-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Soda-Tio-Mano) | Página web con menú responsive accesible desde un QR, desarrollada con HTML, CSS y JavaScript. |
+
