@@ -28,6 +28,9 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)]()
 
 ## Mis Repositorios:
 | Repositorio | Descripción |
@@ -35,4 +38,4 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 | [![Proyecto Ambiente Web 2](https://img.shields.io/badge/Repo1-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Proyecto-Ambiente-Web2) | Proyecto Realizado en C#-JavaScript-HTML y CSS |
 | [![Proyecto Ambiente Web 1](https://img.shields.io/badge/Repo2-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Proyecto-ambiente-web/Greencycle) | Proyecto que administra un centro de acopio, realizado en React y PHP |
 | [![Tienda de Aplicaciones Basica](https://img.shields.io/badge/Repo3-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Cuatri-5/tree/main/Proyecto%20web) | Tienda de VideoJuegos Basica, realizada con HTML,CSS y JavaScript |
-| [![Pagina realizada a un restaurante](https://img.shields.io/badge/Repo3-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Soda-Tio-Mano) | La pagina es un menú responsive que se abre desde un QR, realizada con HTML,CSS y JavaScript |
+| [![Pagina realizada a un restaurante](https://img.shields.io/badge/Repo4-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeeloxTP/Soda-Tio-Mano) | La pagina es un menú responsive que se abre desde un QR, realizada con HTML,CSS y JavaScript |
